@@ -1,0 +1,873 @@
+/*=========extra large version=============*/
+@media only screen and (max-width: 1199px) {
+  .banner_title h1 {
+    font-size: 45px;
+  }
+  .brand_fit h2 {
+    text-align: center;
+  }
+  .about_welcomeText {
+    font-size: 36px;
+  }
+
+  .about_detailsText {
+    max-width: 500px;
+    max-height: 340px;
+  }
+
+  .about_detail {
+    width: 100%;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 17px;
+  }
+
+  .about_image img {
+    max-width: 540px;
+    max-height: 354px;
+  }
+
+  .phase_life h6 {
+    font-size: 20px;
+  }
+
+  .lifeLogo_name {
+    font-weight: 500;
+    font-size: 28px;
+  }
+
+  .type_living {
+    font-size: 19px;
+  }
+
+  .phase_type {
+    font-size: 16px;
+  }
+
+  .brandsHeading_text p {
+    font-size: 19px;
+    line-height: 150%;
+  }
+
+  .structure_box {
+    max-height: 480px;
+    border-radius: 16px;
+  }
+
+  .structure_box .top_title img {
+    width: 40px;
+  }
+
+  .structure_box .top_title h4 {
+    font-weight: 500;
+    font-size: 20px;
+    margin-left: 15px;
+  }
+
+  .capital_image img {
+    max-width: 150px;
+    max-height: 52px;
+  }
+
+  .structure_box .bottom_title h4 {
+    font-weight: 300;
+    font-size: 19px;
+  }
+
+  .structure_box .bottom_title h4 span {
+    display: none;
+  }
+
+  .bottom_title p {
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 140%;
+    /* margin-bottom: 67px; */
+  }
+
+  .structure_box small {
+    font-size: 16px;
+  }
+
+  .structure_box .des_list ul li {
+    margin-bottom: 16px;
+    font-weight: 400;
+    font-size: 15px;
+  }
+
+  .manage_img img {
+    max-width: 149px;
+    max-height: 167px;
+  }
+
+  .manage_image {
+    width: 100%;
+  }
+
+  .house_brand {
+    padding: 90px 0 0px;
+  }
+  .brand_box_line {
+    width: 312px;
+  }
+  .hbrand_box_area::before {
+    display: none;
+  }
+  /* .hbrand_box1::before {
+    display: none;
+  }
+  .hbrand_box2::before {
+    display: none;
+  }
+  .hbrand_box3::before {
+    display: none;
+  } */
+
+  .house_box_wrapper {
+    position: relative;
+  }
+  /* .hbrand_box_area::after {
+    content: "";
+    position: absolute;
+    height: 100%;
+    width: 14px;
+    background: #b7a86c;
+    top: -150px;
+    left: 0;
+    right: 0;
+    margin: 0 auto;
+    border-radius: 36.204px;
+    z-index: -1;
+  } */
+}
+
+@media only screen and (max-width: 1024px) {
+  .h_brand_img img {
+    width: 85px;
+    height: 85px;
+  }
+  
+  #controlDiv {
+    display: none;
+  }
+}
+
+/*============large version===================*/
+@media only screen and (max-width: 991px) {
+  .banner_title h1 {
+    font-size: 40px;
+  }
+
+  .banner_sponsored img {
+    max-width: 270px;
+    max-height: 60px;
+  }
+
+  .about_heading h2 {
+    font-size: 22px;
+  }
+
+  .about_welcomeText {
+    font-size: 30px;
+  }
+
+  .about_detailsText {
+    max-width: 450px;
+    max-height: 300px;
+  }
+
+  .about_detail {
+    width: 100%;
+    font-weight: 400;
+    font-size: 12px;
+    line-height: 14px;
+  }
+
+  .about_image img {
+    max-width: 500px;
+    max-height: 304px;
+  }
+
+  .phase_life {
+    margin-top: 30px;
+    margin-bottom: 0;
+  }
+
+  .phase_life h6 {
+    font-size: 16px;
+  }
+
+  .nav-pills .nav-link.active,
+  .nav-pills .nav-link {
+    padding: 15px 22px;
+    font-size: 14px;
+    margin: 0 5px;
+  }
+
+  .lifeLogo_name {
+    font-weight: 500;
+    font-size: 18px;
+  }
+
+  .type_living {
+    font-size: 10px;
+  }
+
+  .phase_type {
+    font-size: 10px;
+  }
+
+  .ecoSilver_image img {
+    max-width: 110px;
+    max-height: 52px;
+  }
+
+  .eco_img {
+    width: 100%;
+  }
+
+  .ecoSilver_cardBody {
+    padding-top: 10px;
+  }
+
+  .brand_box {
+    width: 180px;
+    height: 180px;
+  }
+
+  .brand_text h3 {
+    font-size: 25px;
+  }
+
+  .brand_text p {
+    font-size: 14px;
+    line-height: 1;
+  }
+
+  .brand_content {
+    gap: 20px;
+    justify-content: center;
+  }
+
+  .brandsHeading_text p {
+    font-size: 17px;
+    line-height: 150%;
+  }
+
+  .structure h2 {
+    font-size: 52px;
+    line-height: 39px;
+    /* padding-top: 233px; */
+  }
+
+  .structure_box {
+    max-height: 450px;
+    border-radius: 12px;
+  }
+
+  .structure_box .top_title img {
+    width: 25px;
+  }
+
+  .structure_box .top_title h4 {
+    font-weight: 500;
+    font-size: 14px;
+    margin-left: 10px;
+  }
+
+  .capital_image img {
+    max-width: 105px;
+    max-height: 42px;
+  }
+
+  .structure_box .bottom_title h4 {
+    font-weight: 300;
+    font-size: 14px;
+  }
+
+  .structure_box .bottom_title h4 span {
+    display: none;
+  }
+
+  .bottom_title p {
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 120%;
+    /* margin-bottom: 67px; */
+  }
+
+  .structure_box small {
+    font-size: 13px;
+  }
+
+  .structure_box .des_list ul li {
+    margin-bottom: 14px;
+    font-weight: 400;
+    font-size: 11px;
+  }
+
+  .manage_content h4 {
+    font-size: 18px;
+    line-height: 30px;
+    margin-top: 12px;
+  }
+
+  .manage_content h5 {
+    font-size: 11px;
+    line-height: 18px;
+  }
+
+  .management_box p {
+    color: #fff;
+    font-weight: 400;
+    font-size: 11px;
+  }
+
+  .management_box button {
+    font-size: 12px;
+  }
+
+  .footer_brand .brand_logo {
+    padding: 20px 15px;
+  }
+}
+
+/*===============medium version===============*/
+@media only screen and (max-width: 767px) {
+  .hbrand_box_area > div {
+    display: flex;
+    gap: 60px;
+    justify-content: flex-start;
+    width: 1235px;
+    overflow: auto;
+    padding: 0 30px;
+    padding-top: 150px;
+  }
+
+  .nav_menu li {
+    margin-left: 15px !important;
+  }
+
+  .banner_title h1 {
+    font-size: 35px;
+  }
+
+  .banner_title {
+    text-align: left;
+  }
+
+  .banner_sponsored img {
+    max-width: 240px;
+    max-height: 50px;
+  }
+
+  .about_heading h2 {
+    font-size: 18px;
+  }
+
+  .about_welcomeText {
+    font-size: 24px;
+  }
+
+  .about_detailsText {
+    max-width: 300px;
+    max-height: 260px;
+  }
+
+  .about_detail {
+    width: 100%;
+    font-weight: 400;
+    font-size: 12px;
+    line-height: 14px;
+  }
+
+  .about_image img {
+    max-width: 400px;
+    max-height: 254px;
+  }
+
+  .about_img {
+    width: 100%;
+  }
+
+  .phase_life h6 {
+    font-size: 12px;
+  }
+
+  .nav-pills .nav-link.active,
+  .nav-pills .nav-link {
+    padding: 15px 20px;
+    font-size: 14px;
+    margin: 0 5px;
+  }
+
+  .living_card {
+    display: none;
+  }
+
+  .mobile_card {
+    display: block;
+  }
+
+  .lifeLogo_name {
+    color: #113839;
+    font-weight: 500;
+    font-size: 32px;
+    padding-left: 10px;
+  }
+
+  .type_living {
+    color: #414141;
+    font-weight: 400;
+    font-size: 22px;
+    padding-top: 5px;
+  }
+
+  .phase_type {
+    color: #b7a86c;
+    font-weight: 500;
+    font-size: 18px;
+  }
+
+  .brand_box {
+    width: 215px;
+    height: 215px;
+  }
+
+  .brand_content {
+    flex-wrap: wrap;
+  }
+
+  .brandsHeading_text p {
+    font-size: 17px;
+    line-height: 150%;
+  }
+
+  .structure_box {
+    max-height: 370px;
+    border-radius: 10px;
+  }
+
+  .manage_content h4 {
+    font-size: 24px;
+    line-height: 36px;
+    margin-top: 18px;
+  }
+
+  .manage_content h5 {
+    font-size: 14px;
+    line-height: 22px;
+  }
+
+  .management_box p {
+    font-size: 18px;
+  }
+
+  .management_box button {
+    font-size: 16px;
+  }
+  .footer_brand .brand_logo {
+    padding: 20px 15px;
+  }
+  /* .c_d_none{
+  display: block;
+} */
+  .hbrand_box_area > div {
+    padding-top: 50px;
+  }
+}
+
+/*============small version=================*/
+@media only screen and (max-width: 576px) {
+  .mobileLocation_content {
+    display: none;
+  }
+  .nav_menu li {
+    display: none;
+  }
+  .c_d_none {
+    display: block;
+  }
+  .nav_image {
+    margin: auto;
+  }
+
+  .banner_title {
+    text-align: center;
+  }
+
+  .banner_title h1 {
+    font-size: 30px;
+  }
+
+  .Banner_watchVideo {
+    padding-top: 36px;
+  }
+
+  .Banner_watchVideo img {
+    max-width: 50px;
+    max-height: 50px;
+  }
+
+  .Banner_watchVideo span {
+    font-size: 16px;
+    padding-left: 15px;
+  }
+
+  .banner_sponsored {
+    color: #b7a86c;
+    position: absolute;
+    bottom: 35px;
+    right: 30px;
+  }
+
+  .banner_sponsored img {
+    max-width: 206px;
+    max-height: 35px;
+  }
+  #home {
+    z-index: 1;
+  }
+  #about {
+    background: #eceeee;
+    background-image: url(../assets/mobile_aboutb.png);
+    background-repeat: no-repeat;
+    background-position: top center;
+    padding: 0 !important;
+    position: relative;
+  }
+  .about_image {
+    position: relative;
+  }
+  .about_image::before {
+    content: "";
+    position: absolute;
+    top: -62%;
+    left: 0;
+    right: 0;
+    margin: 0 auto;
+    background-image: url(../assets/mobile_aboutbg.png);
+    width: 100%;
+    height: 314px;
+    background-repeat: no-repeat;
+    background-size: contain;
+    z-index: 0;
+  }
+  .about_container {
+    flex-direction: column-reverse;
+    padding-top: 57px;
+  }
+
+  .about_heading h2 {
+    font-size: 18px;
+  }
+
+  .about_welcomeText {
+    font-size: 24px;
+  }
+
+  .about_detailsText {
+    max-width: 312px;
+    max-height: 506px;
+  }
+
+  .about_detail {
+    width: 100%;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 18px;
+  }
+
+  .about_image img {
+    max-width: 400px;
+    max-height: 254px;
+  }
+
+  .phase_life {
+    display: none !important;
+  }
+
+  .concepts_btns {
+    padding-top: 24px;
+  }
+
+  .nav-pills .nav-link.active,
+  .nav-pills .nav-link {
+    padding: 10px 16px;
+    font-size: 9px;
+    margin: 0 3px;
+    letter-spacing: 0.644466px;
+  }
+
+  .brand_box {
+    width: 155px;
+    height: 155px;
+  }
+
+  .brand_content {
+    gap: 16px;
+  }
+
+  .brandsHeading_text p {
+    font-size: 14px;
+    line-height: 150%;
+  }
+
+  .brand_text h3 {
+    font-size: 27px;
+  }
+
+  .brand_text p {
+    font-size: 12px;
+  }
+
+  .structure_bg .top_bg {
+    display: none;
+  }
+
+  .structure h2 {
+    font-size: 32px;
+    line-height: 39px;
+    padding-top: 233px;
+  }
+
+  .m_top_minus {
+    margin-top: -55px;
+  }
+
+  .structure_box {
+    max-height: 370px;
+    border-radius: 8px;
+  }
+
+  .structure_box .top_title img {
+    width: 25px;
+  }
+
+  .structure_box .top_title h4 {
+    font-weight: 500;
+    font-size: 14px;
+    padding-top: 14px;
+    margin-left: 15px;
+  }
+
+  .capital_image img {
+    max-width: 97px;
+    max-height: 22px;
+  }
+
+  .structure_box .bottom_title h4 {
+    font-weight: 300;
+    font-size: 14px;
+  }
+
+  .structure_box .bottom_title h4 span {
+    display: none;
+  }
+
+  .bottom_title p {
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 21px;
+    margin-bottom: 67px;
+  }
+
+  .des_list {
+    display: none;
+  }
+
+  .structure_box small {
+    font-size: 12px;
+  }
+
+  .mobileShow_text,
+  .mobile_post {
+    display: block;
+  }
+
+  .desktopShow_text,
+  .desktop_post {
+    display: none;
+  }
+
+  .post_email {
+    display: block !important;
+    font-size: 14px !important;
+  }
+
+  /* contact */
+  .contact {
+    background: rgba(74, 128, 130, 0.05);
+    margin-top: 0;
+    padding: 55px 0 0 0;
+  }
+
+  .contact_heading h2 {
+    color: #103738;
+    font-size: 24px;
+  }
+
+  .contact_heading p {
+    display: block;
+    color: #103738;
+    font-weight: 400;
+    font-size: 14px;
+  }
+
+  .contact_left {
+    display: none;
+  }
+
+  .contact_left_bottom {
+    display: block;
+  }
+
+  .contact_left_bottom ul li {
+    font-family: "Inter", sans-serif;
+    color: #0f001a !important;
+    font-size: 16.3451px;
+  }
+
+  .contact_left_bottom .left_social i {
+    font-size: 24px;
+    color: #0f001a;
+    margin-right: 24px;
+  }
+
+  .mt110 {
+    margin-top: 45px;
+  }
+
+  form .form-control {
+    background: #ffffff;
+    border: 0.6px solid #103738;
+    border-radius: 4.32821px;
+  }
+
+  .form-control:focus {
+    background: #ffffff;
+    color: rgba(0, 0, 0, 0.7);
+    outline: none;
+  }
+
+  .form_btn {
+    background: #103738;
+  }
+
+  .b_f_brand {
+    display: none;
+  }
+
+  .res_f_brand {
+    display: block;
+    margin: 0 auto 62px;
+  }
+
+  .mobile_bgColor {
+    background: rgba(74, 128, 130, 0.05);
+  }
+
+  /* .desktopLocation_section {
+    display: none;
+  } */
+
+  .location_heaing h2 {
+    font-size: 30px !important;
+  }
+  .location_heaing i {
+    font-size: 30px !important;
+  }
+
+  .mobileLocation_section {
+    display: block;
+    background: #e5e5e5;
+    padding-top: 48px;
+  }
+
+  .mobileLocation_content {
+    gap: 10px;
+  }
+
+  .location_mobileBtn {
+    background: #103738;
+    box-shadow: 0px 20px 50px rgba(0, 0, 0, 0.25);
+    border-radius: 38.2573px;
+    padding: 11px 33px;
+    width: 200px;
+    height: 48px;
+    text-align: center;
+    cursor: pointer;
+  }
+
+  .mobile_mapImage {
+    padding-top: 47px;
+    padding-bottom: 60px;
+  }
+
+  .mobile_mapImage img {
+    cursor: pointer;
+    max-width: 400px;
+    max-height: 450px;
+  }
+
+  .map_mobile {
+    width: 100%;
+  }
+
+  .footer_info {
+    display: none;
+  }
+  .d_none_small {
+    display: none;
+  }
+  .footer_brand::before {
+    top: -13%;
+  }
+  .b_d_none {
+    display: none;
+  }
+}
+
+@media only screen and (max-width: 373px) {
+  .brand_box {
+    width: 148px;
+    height: 148px;
+  }
+
+  .structure_box .top_title h4 {
+    font-weight: 400;
+    font-size: 12px;
+    padding-top: 14px;
+    margin-left: 10px;
+  }
+
+  .bottom_title p {
+    font-weight: 400;
+    font-size: 12px;
+    line-height: 18px;
+    margin-bottom: 67px;
+  }
+
+  .manage_img img {
+    max-width: 149px !important;
+    max-height: 167px !important;
+  }
+
+  .manage_image {
+    width: 100% !important;
+  }
+}
+
+@media only screen and (max-width: 330px) {
+  .brand_box {
+    width: 133px;
+    height: 133px;
+  }
+
+  .nav-pills .nav-link.active,
+  .nav-pills .nav-link {
+    padding: 8px 12px;
+    font-size: 9px;
+    margin: 0 3px;
+  }
+}
